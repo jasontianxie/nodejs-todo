@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jasontianxie/nodejs-todo/issues"
   },
-  "homepage": "https://github.com/jasontianxie/nodejs-todo#readme"
+  "homepage": "https://github.com/jasontianxie/nodejs-todo#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "superagent": "^3.5.2",
+    "utility": "^1.12.0"
+  }
 }
